@@ -1,4 +1,5 @@
 ## Supervised Learning 
+In this repo, I have implemented five supervised algorithms to analyze two datasets:” Pima Indian Diabetes” and “Wine Quality-red”. Decision trees, Neural networks, Boosting, Support Vector Machines and k-nearest neighbors are used for classification of the problems. Algorithms are first implemented with default parameters and then improved by performing model complexity analysis and grid search. The algorithms were then assessed based on their performance on the datasets.
 
 ### Datasets
 1. Pima Indian Diabetes - https://www.openml.org/d/37
