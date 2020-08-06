@@ -16,7 +16,7 @@ This project is about unsupervised learning, especially exploring the clustering
 
 ### Instructions for running the code:
 Run the following in Jupyter Notebook:
-- **ML_Assignment3_Diabetes.ipynb** for the Pima Diabetes dataset includes
+1. **ML_Assignment3_Diabetes.ipynb** for the Pima Diabetes dataset includes
 ##### Clustering:
 1. Kmeans on dataset
 2. Expectation Maximization 
@@ -29,7 +29,7 @@ Run the following in Jupyter Notebook:
 1. Clustering
 2. Dimensionlaity Reduction
 
-- **ML_Assignment3_Wine.ipynb** for the Wine Quality dataset includes
+2. **ML_Assignment3_Wine.ipynb** for the Wine Quality dataset includes
 ##### Clustering:
 1. Kmeans on dataset
 2. Expectation Maximization 
