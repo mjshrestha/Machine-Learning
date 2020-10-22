@@ -773,7 +773,7 @@ class PolicyIteration(MDP):
                 done = True
                 if self.verbose:
                     print(_MSG_STOP_MAX_ITER)
-        print("Converged after _evalPolicyIterative iterations: ",itr)
+        # print("Converged after _evalPolicyIterative iterations: ",itr)
         self.V = policy_V
         return itr
 
